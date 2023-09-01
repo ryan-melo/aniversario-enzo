@@ -45,7 +45,7 @@ main {
   margin-bottom: 2rem;
 }
 
-.screen1 img:hover {
+.screen1 img {
   animation: tremer 250ms infinite;
 }
 
